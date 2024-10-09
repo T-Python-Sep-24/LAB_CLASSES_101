@@ -1,9 +1,9 @@
 from panda import Panda
 
-panda1=Panda("Shouq",22,"Programming and Web development",5)
-panda2=Panda("Anoud",27,"Computer science",4.5)
-panda3=Panda("Rahaf",24,"Marketing",4)
-panda4=Panda("Maha",25,"Geology",3.5)
+panda1=Panda("Rambo",8,"fruits"," Malaysia")
+panda2=Panda("Bear",7,"vegetables","Taiwan")
+panda3=Panda("Chief",6,"leaves","South Korea")
+panda4=Panda("Ninja",4,"bamboo","Japan")
 
 print(panda1.name)
 print(panda2.name)
