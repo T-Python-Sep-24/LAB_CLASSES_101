@@ -1,0 +1,16 @@
+from animal import panda
+panda1=panda('mama panda',3.1,'female',40)
+panda2=panda('papa panda',4.1,'male',45)
+panda3=panda('baby panda1',1.1,'female',5)
+panda4=panda('baby panda2',1.1,'male',2)
+print(panda1.age)
+
+print(panda1.get_panda())
+print(panda2.get_panda())
+print(panda3.get_panda())
+print(panda4.get_panda())
+print()
+print(panda1.get_information())
+print(panda2.get_information())
+print(panda3.get_information())
+print(panda4.get_information())
